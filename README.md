@@ -32,7 +32,7 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 ## ⚙️ &nbsp;Technology Stack
 
 <a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/dotnet.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/csharp.png" alt="csharp" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/csharpv2.png" alt="csharp" width="40" height="40"/> </a>
 <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/docker.png" alt="docker" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/mysql.svg" alt="mysql" width="40" height="40"/> </a>
