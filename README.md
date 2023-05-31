@@ -40,6 +40,12 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 <a href="https://proxmox.com" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/proxmox.png" alt="proxmox" width="40" height="40"/> </a>
 <a href="https://linuxcontainers.org" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/lxc.png" alt="lxc" width="40" height="40"/> </a>
 
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAxelander&layout=compact&theme=gruvbox)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAxelander&show_icons=true&theme=gruvbox)
+
 <!--
 **TheAxelander/TheAxelander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
