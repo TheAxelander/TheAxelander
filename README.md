@@ -21,7 +21,7 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 ## 🛠️ &nbsp;Tools
 
 <a href="https://vivaldi.com" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/vivaldi.png" alt="vivaldi" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/github.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/github.png" alt="github" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/code.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/de-de/rider" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/rider.png" alt="rider" width="40" height="40"/> </a>
 <a href="https://draw.io" target="_blank"> <img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/drawio.png" alt="draw.io" width="40" height="40"/> </a>
