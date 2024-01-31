@@ -11,9 +11,7 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 </p>
 
 <p align="center">
-    <a href="https://github.com/awesome-selfhosted/awesome-selfhosted#money-budgeting--management">
-        <img alt="Mentioned in Awesome-Selfhosted" src="https://awesome.re/mentioned-badge.svg">
-    </a>
+    <a href="https://github.com/awesome-selfhosted/awesome-selfhosted#money-budgeting--management"><img alt="Mentioned in Awesome-Selfhosted" src="https://awesome.re/mentioned-badge.svg"></a>
     <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/axelander/openbudgeteer">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TheAxelander/OpenBudgeteer">
 </p>
