@@ -37,3 +37,23 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 <a href="https://linux.org" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/linux.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://proxmox.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/proxmox.png" alt="proxmox" width="40" height="40"/></a>
 <a href="https://linuxcontainers.org" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/lxc.png" alt="lxc" width="40" height="40"/></a>
+
+## 🧪 &nbsp;Homelab Services
+
+<a href="https://github.com/goauthentik/authentik" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/authentik.png" alt="authentik" width="40" height="40"/></a>
+<a href="https://checkmk.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/checkmk.png" alt="checkmk" width="40" height="40"/></a>
+<a href="https://github.com/grafana/grafana" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/grafana.png" alt="grafana" width="40" height="40"/></a>
+<a href="https://github.com/home-assistant/core" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/hass.png" alt="hass" width="40" height="40"/></a>
+<a href="https://github.com/healthchecks/healthchecks" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/healthchecks.png" alt="healthchecks" width="40" height="40"/></a>
+<a href="https://github.com/hay-kot/homebox" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/homebox.svg" alt="homebox" width="40" height="40"/></a>
+<a href="https://github.com/immich-app/immich" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/immich.png" alt="immich" width="40" height="40"/></a>
+<a href="https://github.com/mailcow/mailcow-dockerized" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/mailcow.png" alt="mailcow" width="40" height="40"/></a>
+<a href="https://github.com/TheAxelander/OpenBudgeteer" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/openbudgeteer.png" alt="openbudgeteer" width="40" height="40"/></a>
+<a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/paperless-ng.png" alt="paperless-ng" width="40" height="40"/></a>
+<a href="https://github.com/dani-garcia/vaultwarden" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/vaultwarden.svg" alt="vaultwarden" width="40" height="40"/></a>
+
+## 📈 &nbsp;Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAxelander&layout=compact&theme=gruvbox)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAxelander&show_icons=true&theme=gruvbox)
