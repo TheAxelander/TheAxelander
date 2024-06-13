@@ -33,14 +33,18 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/csharpv2.png" alt="csharp" width="40" height="40"/></a>
 <a href="https://docker.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/docker.png" alt="docker" width="40" height="40"/></a>
 <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/git.svg" alt="git" width="40" height="40"/></a>
-<a href="https://mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/mysql.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://github.com/MariaDB" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/mariadb.png" alt="mariadb" width="40" height="40"/></a>
+<a href="https://github.com/influxdata/influxdb" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/influxdb.png" alt="influxdb" width="40" height="40"/></a>
 <a href="https://linux.org" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/linux.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://proxmox.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/proxmox.png" alt="proxmox" width="40" height="40"/></a>
 <a href="https://linuxcontainers.org" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/lxc.png" alt="lxc" width="40" height="40"/></a>
 
 ## 🧪 &nbsp;Homelab Services
 
+<a href="https://github.com/ansible/ansible" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/ansible.png" alt="ansible" width="40" height="40"/></a>
 <a href="https://github.com/goauthentik/authentik" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/authentik.png" alt="authentik" width="40" height="40"/></a>
+<a href="https://github.com/borgmatic-collective/borgmatic" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/borgmatic.png" alt="borgmatic" width="40" height="40"/></a>
+<a href="https://github.com/caddyserver/caddy" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/caddy.png" alt="caddy" width="40" height="40"/></a>
 <a href="https://checkmk.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/checkmk.png" alt="checkmk" width="40" height="40"/></a>
 <a href="https://github.com/grafana/grafana" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/grafana.png" alt="grafana" width="40" height="40"/></a>
 <a href="https://github.com/home-assistant/core" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/hass.png" alt="hass" width="40" height="40"/></a>
