@@ -46,6 +46,7 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 <a href="https://github.com/borgmatic-collective/borgmatic" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/borgmatic.png" alt="borgmatic" width="50" height="50"/></a>
 <a href="https://github.com/caddyserver/caddy" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/caddy.png" alt="caddy" width="50" height="50"/></a>
 <a href="https://checkmk.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/checkmk.png" alt="checkmk" width="50" height="50"/></a>
+<a href="https://github.com/jhuckaby/Cronicle" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/cronicle.png" alt="cronicle" width="50" height="50"/></a>
 <a href="https://github.com/grafana/grafana" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/grafana.png" alt="grafana" width="50" height="50"/></a>
 <a href="https://github.com/home-assistant/core" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/hass.png" alt="hass" width="50" height="50"/></a>
 <a href="https://github.com/healthchecks/healthchecks" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/healthchecks.png" alt="healthchecks" width="50" height="50"/></a>
