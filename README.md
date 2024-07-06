@@ -50,7 +50,7 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 <a href="https://github.com/grafana/grafana" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/grafana.png" alt="grafana" width="50" height="50"/></a>
 <a href="https://github.com/home-assistant/core" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/hass.png" alt="hass" width="50" height="50"/></a>
 <a href="https://github.com/healthchecks/healthchecks" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/healthchecks.png" alt="healthchecks" width="50" height="50"/></a>
-<a href="https://github.com/hay-kot/homebox" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/homebox.svg" alt="homebox" width="50" height="50"/></a>
+<a href="https://github.com/sysadminsmedia/homebox" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/homebox.svg" alt="homebox" width="50" height="50"/></a>
 <a href="https://github.com/immich-app/immich" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/immich.png" alt="immich" width="50" height="50"/></a>
 <a href="https://github.com/mailcow/mailcow-dockerized" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/mailcow.png" alt="mailcow" width="50" height="50"/></a>
 <a href="https://github.com/TheAxelander/OpenBudgeteer" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/openbudgeteer.png" alt="openbudgeteer" width="50" height="50"/></a>
