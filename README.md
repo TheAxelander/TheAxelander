@@ -16,6 +16,30 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TheAxelander/OpenBudgeteer">
 </p>
 
+## 💻 &nbsp;Typical System Setup
+
+```
+                  -`                     axelander@github
+                 .o+`                    ---------------------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Shell: zsh
+              `+oooooo:                  DE: Cinnamon
+              -+oooooo+:                 WM: Muffin (X11)
+            `/:-:++oooo+:                WM Theme: Gruvbox-Dark (Adwaita)
+           `/++++/+++++++:               Theme: Gruvbox-Dark [GTK2/3/4]
+          `/++++++++++++++:              Icons: Gruvbox [GTK2/3/4]
+         `/+++ooooooooooooo/`            Font: Ubuntu (10pt) [GTK2/3/4]
+        ./ooosssso++osssssso+`           Cursor: Bibata-Modern-Classic (24px)
+       .oossssso-````/ossssss+`          Terminal: GNOME Terminal
+      -osssssso.      :ssssssso.         Terminal Font: DejaVu Sans Mono (10pt)
+     :osssssss/        osssso+++.        Locale: en_US.UTF-8
+    /ossssssss/        +ssssooo/-        
+  `/ossssso+/:-        -:/+osssso+-      
+ `+sso+:-`                 `.-/+oso:     
+`++:.                           `-/+/    
+.`                                 `/    
+```
+
 ## 🛠️ &nbsp;Tools
 
 <a href="https://vivaldi.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/vivaldi.png" alt="vivaldi" width="50" height="50"/></a>
@@ -23,7 +47,6 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/code.png" alt="vscode" width="50" height="50"/></a>
 <a href="https://www.jetbrains.com/de-de/rider" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/rider.png" alt="rider" width="50" height="50"/></a>
 <a href="https://draw.io" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/drawio.png" alt="draw.io" width="50" height="50"/></a>
-<a href="https://portainer.io" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/portainer.png" alt="portainer" width="50" height="50"/></a>
 <a href="https://obsidian.md" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/obsidian.png" alt="obsidian" width="50" height="50"/></a>
 <a href="https://krita.org" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/krita.png" alt="krita" width="50" height="50"/></a>
 
@@ -38,22 +61,27 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 <a href="https://linux.org" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/linux.svg" alt="linux" width="50" height="50"/></a>
 <a href="https://proxmox.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/proxmox.png" alt="proxmox" width="50" height="50"/></a>
 <a href="https://linuxcontainers.org" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/lxc.png" alt="lxc" width="50" height="50"/></a>
+<a href="https://unraid.net" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/unraid.png" alt="unraid" width="50" height="50"/></a>
 
 ## 🧪 &nbsp;Homelab Services
 
 <a href="https://github.com/ansible/ansible" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/ansible.png" alt="ansible" width="50" height="50"/></a>
+<a href="https://github.com/advplyr/audiobookshelf" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/audiobookshelf.png" alt="audiobookshelf" width="50" height="50"/></a>
 <a href="https://github.com/goauthentik/authentik" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/authentik.png" alt="authentik" width="50" height="50"/></a>
 <a href="https://github.com/borgmatic-collective/borgmatic" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/borgmatic.png" alt="borgmatic" width="50" height="50"/></a>
 <a href="https://github.com/caddyserver/caddy" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/caddy.png" alt="caddy" width="50" height="50"/></a>
 <a href="https://checkmk.com" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/checkmk.png" alt="checkmk" width="50" height="50"/></a>
-<a href="https://github.com/jhuckaby/Cronicle" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/cronicle.png" alt="cronicle" width="50" height="50"/></a>
 <a href="https://github.com/grafana/grafana" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/grafana.png" alt="grafana" width="50" height="50"/></a>
+<a href="https://github.com/gotify/server" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/gotify.png" alt="gotify" width="50" height="50"/></a>
 <a href="https://github.com/home-assistant/core" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/hass.png" alt="hass" width="50" height="50"/></a>
 <a href="https://github.com/healthchecks/healthchecks" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/healthchecks.png" alt="healthchecks" width="50" height="50"/></a>
 <a href="https://github.com/sysadminsmedia/homebox" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/homebox.svg" alt="homebox" width="50" height="50"/></a>
 <a href="https://github.com/immich-app/immich" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/immich.png" alt="immich" width="50" height="50"/></a>
+<a href="https://github.com/CorentinTh/it-tools" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/it-tools.png" alt="it-tools" width="50" height="50"/></a>
+<a href="https://github.com/kestra-io/kestra" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/kestra.png" alt="kestra" width="50" height="50"/></a>
 <a href="https://github.com/mailcow/mailcow-dockerized" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/mailcow.png" alt="mailcow" width="50" height="50"/></a>
 <a href="https://github.com/TheAxelander/OpenBudgeteer" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/openbudgeteer.png" alt="openbudgeteer" width="50" height="50"/></a>
+<a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/stirling.svg" alt="stirling" width="50" height="50"/></a>
 <a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/paperless-ng.png" alt="paperless-ng" width="50" height="50"/></a>
 <a href="https://github.com/dani-garcia/vaultwarden" target="_blank"><img src="https://raw.githubusercontent.com/TheAxelander/TheAxelander/main/assets/vaultwarden.svg" alt="vaultwarden" width="50" height="50"/></a>
 
