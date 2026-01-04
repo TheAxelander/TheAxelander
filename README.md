@@ -84,9 +84,3 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 <a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank"><img src="./assets/stirling.svg" alt="stirling" width="50" height="50"/></a>
 <a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank"><img src="./assets/paperless-ng.png" alt="paperless-ng" width="50" height="50"/></a>
 <a href="https://github.com/dani-garcia/vaultwarden" target="_blank"><img src="./assets/vaultwarden.svg" alt="vaultwarden" width="50" height="50"/></a>
-
-## 📈 &nbsp;Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAxelander&layout=compact&theme=gruvbox)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAxelander&show_icons=true&theme=gruvbox)
