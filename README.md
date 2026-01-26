@@ -29,7 +29,7 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
            `/++++/+++++++:               ╭─Terminal───┬────────────────────────────────╮
           `/++++++++++++++:              ├╴Shell      │ zsh                            │
          `/+++ooooooooooooo/`            ├╴Terminal   │ kitty                          │
-        ./ooosssso++osssssso+`           ├╴Font       │ JetBrainsMonoNF-Regular (11pt) │
+        ./ooosssso++osssssso+`           ├╴Font       │ JetBrainsMono Nerd Font (11pt) │
        .oossssso-````/ossssss+`          ├╴Locale     │ en_US.UTF-8                    │
       -osssssso.      :ssssssso.         ╰────────────┴────────────────────────────────╯
      :osssssss/        osssso+++.        ╭─Theme──────┬────────────────────────────────╮
