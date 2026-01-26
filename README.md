@@ -19,25 +19,26 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 ## 💻 &nbsp;Typical System Setup
 
 ```
-                  -`                     axelander@github
-                 .o+`                    ---------------------
-                `ooo/                    OS: Arch Linux x86_64
-               `+oooo:                   Shell: zsh
-              `+oooooo:                  DE: Cinnamon
-              -+oooooo+:                 WM: Muffin (X11)
-            `/:-:++oooo+:                WM Theme: Gruvbox-Dark (Adwaita)
-           `/++++/+++++++:               Theme: Gruvbox-Dark [GTK2/3/4]
-          `/++++++++++++++:              Icons: Gruvbox [GTK2/3/4]
-         `/+++ooooooooooooo/`            Font: Ubuntu (10pt) [GTK2/3/4]
-        ./ooosssso++osssssso+`           Cursor: Bibata-Modern-Classic (24px)
-       .oossssso-````/ossssss+`          Terminal: GNOME Terminal
-      -osssssso.      :ssssssso.         Terminal Font: DejaVu Sans Mono (10pt)
-     :osssssss/        osssso+++.        Locale: en_US.UTF-8
-    /ossssssss/        +ssssooo/-        
-  `/ossssso+/:-        -:/+osssso+-      
- `+sso+:-`                 `.-/+oso:     
-`++:.                           `-/+/    
-.`                                 `/    
+                  -`                      axelander@github
+                 .o+`                     
+                `ooo/                    ╭─System─────┬────────────────────────────────╮
+               `+oooo:                   ├╴OS         │ Arch Linux x86_64              │
+              `+oooooo:                  ├╴DE         │ Cinnamon                       │
+              -+oooooo+:                 ├╴WM         │ Muffin (X11)                   │
+            `/:-:++oooo+:                ╰────────────┴────────────────────────────────╯
+           `/++++/+++++++:               ╭─Terminal───┬────────────────────────────────╮
+          `/++++++++++++++:              ├╴Shell      │ zsh                            │
+         `/+++ooooooooooooo/`            ├╴Terminal   │ kitty                          │
+        ./ooosssso++osssssso+`           ├╴Font       │ JetBrainsMonoNF-Regular (11pt) │
+       .oossssso-````/ossssss+`          ├╴Locale     │ en_US.UTF-8                    │
+      -osssssso.      :ssssssso.         ╰────────────┴────────────────────────────────╯
+     :osssssss/        osssso+++.        ╭─Theme──────┬────────────────────────────────╮
+    /ossssssss/        +ssssooo/-        ├╴WM Theme   │ Gruvbox-Dark (Adwaita)         │
+  `/ossssso+/:-        -:/+osssso+-      ├╴Theme      │ Gruvbox-Dark [GTK2/3/4]        │
+ `+sso+:-`                 `.-/+oso:     ├╴Icons      │ Gruvbox [GTK2/3/4]             │
+`++:.                           `-/+/    ├╴Font       │ Ubuntu (10pt) [GTK2/3/4]       │
+.`                                 `/    ├╴Cursor     │ Bibata-Modern-Classic (24px)   │
+                                         ╰────────────┴────────────────────────────────╯
 ```
 
 ## 🛠️ &nbsp;Tools
