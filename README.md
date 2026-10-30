@@ -22,9 +22,9 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
                   -`                      axelander@github
                  .o+`                     
                 `ooo/                    ╭─System─────┬────────────────────────────────╮
-               `+oooo:                   ├╴OS         │ Arch Linux x86_64              │
-              `+oooooo:                  ├╴DE         │ Cinnamon                       │
-              -+oooooo+:                 ├╴WM         │ Muffin (X11)                   │
+               `+oooo:                   ├╴OS         │ CachyOS x86_64                 │
+              `+oooooo:                  ├╴DE         │ KDE Plasma                     │
+              -+oooooo+:                 ├╴WM         │ KWin (Wayland)                 │
             `/:-:++oooo+:                ╰────────────┴────────────────────────────────╯
            `/++++/+++++++:               ╭─Terminal───┬────────────────────────────────╮
           `/++++++++++++++:              ├╴Shell      │ zsh                            │
@@ -33,17 +33,17 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
        .oossssso-````/ossssss+`          ├╴Locale     │ en_US.UTF-8                    │
       -osssssso.      :ssssssso.         ╰────────────┴────────────────────────────────╯
      :osssssss/        osssso+++.        ╭─Theme──────┬────────────────────────────────╮
-    /ossssssss/        +ssssooo/-        ├╴WM Theme   │ Gruvbox-Dark (Adwaita)         │
-  `/ossssso+/:-        -:/+osssso+-      ├╴Theme      │ Gruvbox-Dark [GTK2/3/4]        │
- `+sso+:-`                 `.-/+oso:     ├╴Icons      │ Gruvbox [GTK2/3/4]             │
-`++:.                           `-/+/    ├╴Font       │ Ubuntu (10pt) [GTK2/3/4]       │
-.`                                 `/    ├╴Cursor     │ Bibata-Modern-Classic (24px)   │
+    /ossssssss/        +ssssooo/-        ├╴WM Theme   │ CatppuccinMocha-Classic        │
+  `/ossssso+/:-        -:/+osssso+-      ├╴Theme      │ CatppuccinMochaPeach           │
+ `+sso+:-`                 `.-/+oso:     ├╴Icons      │ breeze-dark                    │
+`++:.                           `-/+/    ├╴Font       │ Noto Sans (10pt)               │
+.`                                 `/    ├╴Cursor     │ catppuccin-mocha-peach (24px)  │
                                          ╰────────────┴────────────────────────────────╯
 ```
 
 ## 🛠️ &nbsp;Tools
 
-<a href="https://vivaldi.com" target="_blank"><img src="./assets/vivaldi.png" alt="vivaldi" width="50" height="50"/></a>
+<a href="https://firefox.com" target="_blank"><img src="./assets/firefox.png" alt="firefox" width="50" height="50"/></a>
 <a href="https://github.com" target="_blank"><img src="./assets/github-mark-white.png" alt="github" width="50" height="50"/></a>
 <a href="https://code.visualstudio.com" target="_blank"><img src="./assets/code.png" alt="vscode" width="50" height="50"/></a>
 <a href="https://www.jetbrains.com/de-de/rider" target="_blank"><img src="./assets/rider.png" alt="rider" width="50" height="50"/></a>
@@ -60,6 +60,7 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 <a href="https://github.com/MariaDB" target="_blank"><img src="./assets/mariadb.png" alt="mariadb" width="50" height="50"/></a>
 <a href="https://github.com/influxdata/influxdb" target="_blank"><img src="./assets/influxdb.png" alt="influxdb" width="50" height="50"/></a>
 <a href="https://linux.org" target="_blank"><img src="./assets/linux.svg" alt="linux" width="50" height="50"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="./assets/postgres.png" alt="postgres" width="50" height="50"/></a>
 <a href="https://proxmox.com" target="_blank"><img src="./assets/proxmox.png" alt="proxmox" width="50" height="50"/></a>
 <a href="https://linuxcontainers.org" target="_blank"><img src="./assets/lxc.png" alt="lxc" width="50" height="50"/></a>
 <a href="https://unraid.net" target="_blank"><img src="./assets/unraid.png" alt="unraid" width="50" height="50"/></a>
@@ -67,7 +68,6 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 ## 🧪 &nbsp;Homelab Services
 
 <a href="https://github.com/ansible/ansible" target="_blank"><img src="./assets/ansible.png" alt="ansible" width="50" height="50"/></a>
-<a href="https://github.com/advplyr/audiobookshelf" target="_blank"><img src="./assets/audiobookshelf.png" alt="audiobookshelf" width="50" height="50"/></a>
 <a href="https://github.com/goauthentik/authentik" target="_blank"><img src="./assets/authentik.png" alt="authentik" width="50" height="50"/></a>
 <a href="https://github.com/borgmatic-collective/borgmatic" target="_blank"><img src="./assets/borgmatic.png" alt="borgmatic" width="50" height="50"/></a>
 <a href="https://github.com/caddyserver/caddy" target="_blank"><img src="./assets/caddy.png" alt="caddy" width="50" height="50"/></a>
