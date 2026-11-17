@@ -45,7 +45,7 @@ Right now my biggest project is OpenBudgeteer which is some kind of a selfhosted
 
 <a href="https://firefox.com" target="_blank"><img src="./assets/firefox.png" alt="firefox" width="50" height="50"/></a>
 <a href="https://github.com" target="_blank"><img src="./assets/github-mark-white.png" alt="github" width="50" height="50"/></a>
-<a href="https://code.visualstudio.com" target="_blank"><img src="./assets/code.png" alt="vscode" width="50" height="50"/></a>
+<a href="https://zed.dev" target="_blank"><img src="./assets/zed.png" alt="zed" width="50" height="50"/></a>
 <a href="https://www.jetbrains.com/de-de/rider" target="_blank"><img src="./assets/rider.png" alt="rider" width="50" height="50"/></a>
 <a href="https://draw.io" target="_blank"><img src="./assets/drawio.png" alt="draw.io" width="50" height="50"/></a>
 <a href="https://obsidian.md" target="_blank"><img src="./assets/obsidian.png" alt="obsidian" width="50" height="50"/></a>
